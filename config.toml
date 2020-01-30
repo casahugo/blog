@@ -1,26 +1,26 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Hugo Casabella"
-theme = "resume"
+theme = "resume-hugo"
 
 [params]
     firstName = "Hugo"
     lastName = "Casabella"
     address = "Lyon, France"
-    contactNote = "Lead developer web" #used in QR code only
+    contactNote = "Lead web developer" #used in QR code only
     profileImage = "img/me.jpeg"
-    email = "hugo@wizacha.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    email = "hugo.casabella@gmail.com"
+    description = "Software Engineer with experience leveraging agile, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
-    showSkills = true
+    showSkills = false
     showProjects = false
     showOpenSource = false
     showPublications = false
-    showExperience = true
-    showEducation = true
-    showQr = false
+    showExperience = false
+    showEducation = false
+    showQr = true
 
     # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
     gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"

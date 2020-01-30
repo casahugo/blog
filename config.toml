@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://anthhugo.github.io/blog/"
 languageCode = "fr-fr"
 title = "Hugo Casabella"
 theme = "resume-hugo"
+publishDir = "docs"
 
 [params]
     firstName = "Hugo"

@@ -1,4 +1,4 @@
-baseURL = "https://anthhugo.github.io/"
+baseURL = "https://anthhugo.github.io/blog/"
 languageCode = "fr-fr"
 title = "Hugo Casabella"
 theme = "resume-hugo"

@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Lead developer PHP",
+        "company":"Wizaplace",
+        "summary":"Led in development of fast paced software teams.\n- Analyse\n- Conception\n- Security\n- Tests\n- Manage developer squad\n- Behavior Driven Development",
+        "range":"October 2019 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Developer backend PHP",
+        "company":"Wizaplace",
+        "summary":"Implement several features on SAAS product.\n- Payment service\n- Refund order service\n- Promotion service",
+        "range":"April 2018 - September 2019"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Developer full stack",
+        "company":"Anthemis",
+        "url": "https://www.anthemis.fr",
+        "summary":"- Ecommerce\n- Intranet\n- Network administration",
+        "range":"October 2012 - October 2017"
+    },
+    {
+        "role":"Developer full stack",
+        "company":"My own company",
+        "range":"September 2011"
     }
 ]

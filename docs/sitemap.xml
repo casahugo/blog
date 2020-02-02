@@ -3,15 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anthhugo.github.io/blog/categories/</loc>
+    <loc>https://anthhugo.github.io/blog/posts/alldaydevops/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://anthhugo.github.io/blog/</loc>
+    <lastmod>2018-02-10T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/agile/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/ci/cd-pipelines/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/continuous-delivery/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/continuous-integration/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/culture/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/tags/devops/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/posts/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://anthhugo.github.io/blog/tags/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anthhugo.github.io/blog/search/</loc>
+    <priority>0.1</priority>
   </url>
   
 </urlset>

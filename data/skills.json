@@ -4,19 +4,19 @@
       "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "git","linux","php","nodejs","javascript", "docker"]
+      "grouping":"Langages & Outils",
+      "skills":[ "git","php","nodejs","javascript","docker"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Github", "NGINX","MySQL", "Rabbit MQ"]
+      "grouping":"Administration",
+      "skills":[ "Atlassian","linux","Github", "NGINX","MySQL", "AMQP", "AWS"]
   },
   {
-    "grouping":"Continuous Integration",
+    "grouping":"Intégration continue",
     "skills":[ "circleci","phpunit","sonar", "phpstan & phpcs"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Base de données",
       "skills":[
         {"name":"Elasticsearch","icon":"database"},
         {"name":"MySQL","icon":"database"},

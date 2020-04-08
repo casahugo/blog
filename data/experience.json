@@ -1,21 +1,46 @@
 [
     {
-        "role":"Lead web developer",
-        "company":"Wizaplace",
-        "summary":"Accompagnement des équipes sur l'évolution du produit SAAS.\n- Analyse\n- Conception\n- Sécurité\n- Tests\n- Behavior Driven Development",
+        "role":"Lead Développeur PHP",
+        "company":"[Wizaplace](https://www.wizaplace.com/fr/)",
+        "title": "Première expérience en tant que Lead développeur au sein d'une squad de 4 développeurs afin de migrer le système de marketplace vers une architecture en micro services. En charge des choix techniques et du bon déroulement des développements avec une attention particulière apportée sur la sécurité et la qualité. ",
+        "content": [
+            "Animation d'une squad de développeur: standup, pair-programming, revue de code",
+            "Rédaction de spécifications techniques en relation avec une équipe produit",
+            "Découpe des tâches et suivi du développement accompagné par un chef de projet",
+            "Attention particulière apporté sur la sécurité avec Sonar, la qualité avec phpstan et phpcs ainsi que les performances avec Apache Benchmark et Blackfire",
+            "Mise en place d'ateliers techniques autour du design pattern en PHP, d'outils comme Mercure et Xdebug"
+        ],
         "range":"Octobre 2019"
     },
     {
-        "role":"Developer backend PHP",
-        "company":"Wizaplace",
-        "summary":"Implémentation de fonctionnalités sur le produit SAAS.\n- Service de paiement\n- Service de remboursement de commandes\n- Service de promotions",
+        "role":"Développeur backend PHP",
+        "company":"[Wizaplace](https://www.wizaplace.com/fr/)",
+        "title": "Développeur backend en charge d'implémenter de nouvelles fonctionnalités sur un produit SAAS de marketplace au sein d'une équipe fonctionnant en agilité. Prise en charge de la rédaction de spécifications techniques en relation avec un Product Owner.",
+        "content": [
+            "Développement en PHP 7 avec le framework [Symfony](https://symfony.com/) 3 et 4",
+            "Développement de l'[API REST](https://sandbox.wizaplace.com/api/v1/doc/) documenté avec OpenApi, suivi par l'enrichissement d'un [SDK PHP](https://github.com/wizaplace/wizaplace-php-sdk).",
+            "Ecriture de tests unitaires et fonctionnels avec [PHPUnit](https://phpunit.de/), [Atoum](http://atoum.org/) et [Behat](https://docs.behat.org/en/latest/).",
+            "Utilisation de [JIRA](https://www.atlassian.com/fr/software/jira) pour la gestion de suivi de tickets.",
+            "Mise en place d'un environnement de développement avec [Docker](https://www.docker.com/).",
+            "Evolution des modes de paiements avec [Stripe](https://stripe.com/fr), [LemonWay](https://www.lemonway.com/), [HiPay](https://hipay.com/), [SMoney](http://www.s-money.fr/), [MangoPay](https://www.mangopay.com/fr/) avec l'implémentation du virement et prélèvement bancaire et la gestion des comptes clients.",
+            "Evolution de l'implémentation du moteur de recherche [Algolia](https://www.algolia.com/).",
+            "Evolution de l'outil d'intégration continue [CircleCI](https://circleci.com/) pour réduire le temps de process. Création d'une librairie [atoum-slicer](https://github.com/wizaplace/atoum-slicer) pour découper les suites de tests Atoum.",
+            "Import de données de manière asynchrone avec [RabbitMQ](https://www.rabbitmq.com/)",
+            "Réalisation d'un outil interne pour le déploiement à la volée des environnements en sandbox avec [platform.sh](https://platform.sh/)."
+        ],
         "range":"Avril 2018 - Septembre 2019"
     },
     {
-        "role":"Developer full stack",
-        "company":"Anthemis",
-        "url": "https://www.anthemis.fr",
-        "summary":"- Ecommerce\n- Intranet\n- Site vitrine\n- Administration système",
+        "role":"Développeur full stack",
+        "company":"[Anthemis](https://www.anthemis.fr)",
+        "title" : "Première expérience pour laquelle j'ai acquis une solide expérience dans la réalisation d'applications web dans divers secteurs d'activités et principalement le Ecommerce.",
+        "content": [
+            "Développement en PHP 5 et 7 avec un framework PHP maison de diverses applications: [Hitachi](https://erpactive.chauffage.hitachi.fr/fr/), [Athena voyages](https://www.athenavoyages.com/), [ALVS](https://www.objets-publicitaires-alvs.fr/)",
+            "Développement d'applications avec Wordpress.",
+            "Maintenance d'une solution d'emailing [mailforyou](https://www.mailforyou.pro/fr/)",
+            "En charge du déploiement et de l'administration système",
+            "Formation et accompagnement d'étudiants en alternance"
+        ],
         "range":"Octobre 2012 - Octobre 2017"
     },
     {

@@ -11,7 +11,9 @@ publishDir = "docs"
     contactNote = "Lead web developer" #used in QR code only
     profileImage = "img/me.jpeg"
     email = "hugo.casabella@gmail.com"
-    description = "Lead developer avec une expérience tirant parti de l'agilité et de l'intégration continue pour gérer des applications scalabes dans le cloud."
+    description = "Autodidacte et passionné par le web depuis bientôt 10ans, j'aime développer, partager et trouver des solutions."
+    description2 = "Développeur expérimenté, mes différentes expériences m'ont permis d'encadrer et d'organiser des équipes afin de répondre à de nombreux challenges techniques."
+    description3 = "Spécialisé en PHP j'aime aussi travailler en Javascript ou en GO et utiliser des technos comme RabbitMQ, Docker ou Serverless."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

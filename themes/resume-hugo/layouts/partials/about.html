@@ -7,9 +7,13 @@
 
               <h1 class="mb-0">{{ .Site.Params.firstName }}
                 <span class="text-primary">{{ .Site.Params.lastName }}</span>
-
               </h1>
               <div class="subheading mb-5">{{ .Site.Params.contactNote }}</div>
+              <div class="mb-5">
+                {{ .Site.Params.description | markdownify }}<br>
+                {{ .Site.Params.description2 | markdownify }}<br>
+                {{ .Site.Params.description3 | markdownify }}
+              </div>
               <div class="subheading mb-5">{{ .Site.Params.address }}</div>
 
             </div>

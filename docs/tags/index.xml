@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Casabella</title>
-    <link>https://anthhugo.github.io/blog/tags/</link>
+    <link>https://casahugo.github.io/blog/tags/</link>
     <description>Recent content in Tags on Hugo Casabella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anthhugo.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://casahugo.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>agile</title>
-      <link>https://anthhugo.github.io/blog/tags/agile/</link>
+      <link>https://casahugo.github.io/blog/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anthhugo.github.io/blog/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://anthhugo.github.io/blog/tags/ci/cd-pipelines/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://anthhugo.github.io/blog/tags/ci/cd-pipelines/</guid>
+      <guid>https://casahugo.github.io/blog/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://anthhugo.github.io/blog/tags/continuous-delivery/</link>
+      <link>https://casahugo.github.io/blog/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anthhugo.github.io/blog/tags/continuous-delivery/</guid>
+      <guid>https://casahugo.github.io/blog/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://anthhugo.github.io/blog/tags/continuous-integration/</link>
+      <link>https://casahugo.github.io/blog/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anthhugo.github.io/blog/tags/continuous-integration/</guid>
+      <guid>https://casahugo.github.io/blog/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://anthhugo.github.io/blog/tags/culture/</link>
+      <link>https://casahugo.github.io/blog/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anthhugo.github.io/blog/tags/culture/</guid>
+      <guid>https://casahugo.github.io/blog/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://anthhugo.github.io/blog/tags/devops/</link>
+      <link>https://casahugo.github.io/blog/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://anthhugo.github.io/blog/tags/devops/</guid>
+      <guid>https://casahugo.github.io/blog/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD pipelines</title>
+      <link>https://casahugo.github.io/blog/tags/ci/cd-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://casahugo.github.io/blog/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     

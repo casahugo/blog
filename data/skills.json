@@ -1,19 +1,19 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS", "Domain Driven Design", "CQRS"]
   },
   {
       "grouping":"Langages & Outils",
-      "skills":[ "git","php","nodejs","javascript","docker"]
+      "skills":[ "git","php","nodejs","javascript","docker", "go"]
   },
   {
       "grouping":"Administration",
-      "skills":[ "Atlassian","linux","Github", "NGINX","MySQL", "AMQP", "AWS"]
+      "skills":[ "Atlassian","linux","Github", "Gitlab", "NGINX","MySQL", "AMQP", "AWS"]
   },
   {
     "grouping":"Intégration continue",
-    "skills":[ "circleci","phpunit","sonar", "phpstan & phpcs"]
+    "skills":[ "circleci","phpunit","sonar", "phpstan & phpcs", "Gitlab CI"]
   },
   {
       "grouping":"Base de données",

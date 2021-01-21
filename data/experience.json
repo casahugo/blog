@@ -1,5 +1,16 @@
 [
     {
+        "role":"Développeur backend PHP",
+        "company":"[Opéra Energie](https://opera-energie.com/)",
+        "title": "Première expérience dans le métier de l'énergie afin d'automatiser les processus de gestion de données et la migration du produit sous Symfony 5",
+        "content": [
+            "Algorithme de récupération et de traitement des consommations électriques depuis ENEDIS",
+            "Refonte de l'architecture à l'aide du Domain Driven Design",
+            "Mise en place de nouvelles APIs, de tests unitaires et d'intégrations"
+        ],
+        "range":"Mai 2020 - Maintenant"
+    },
+    {
         "role":"Lead Développeur PHP",
         "company":"[Wizaplace](https://www.wizaplace.com/fr/)",
         "title": "Première expérience en tant que Lead développeur au sein d'une squad de 4 développeurs afin de migrer le système de marketplace vers une architecture en micro services. En charge des choix techniques et du bon déroulement des développements avec une attention particulière apportée sur la sécurité et la qualité. ",
@@ -10,7 +21,7 @@
             "Attention particulière apporté sur la sécurité avec Sonar, la qualité avec phpstan et phpcs ainsi que les performances avec Apache Benchmark et Blackfire",
             "Mise en place d'ateliers techniques autour du design pattern en PHP, d'outils comme Mercure et Xdebug"
         ],
-        "range":"Octobre 2019"
+        "range":"Octobre 2019 - Avril 2020"
     },
     {
         "role":"Développeur backend PHP",

@@ -6,11 +6,7 @@
     <description>Recent content in Home on Hugo Casabella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
-    
-	<atom:link href="https://casahugo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://casahugo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
       <link>https://casahugo.github.io/blog/posts/alldaydevops/</link>

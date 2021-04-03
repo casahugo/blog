@@ -31,7 +31,7 @@ publishDir = "docs"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/anthHugo"
+    link = "https://github.com/casahugo"
 
 #[params.google.analytics]
 #    trackerID = "XX-123446-01"

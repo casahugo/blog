@@ -5,11 +5,11 @@
   },
   {
       "grouping":"Langages & Outils",
-      "skills":[ "git","php","nodejs","javascript","docker", "go"]
+      "skills":[ "git","php","nodejs","javascript","docker", "go", "kubernetes"]
   },
   {
       "grouping":"Administration",
-      "skills":[ "Atlassian","linux","Github", "Gitlab", "NGINX","MySQL", "AMQP", "AWS"]
+      "skills":[ "Atlassian","linux","Github", "Gitlab", "AMQP", "AWS"]
   },
   {
     "grouping":"Intégration continue",

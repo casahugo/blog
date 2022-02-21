@@ -8,12 +8,12 @@ publishDir = "docs"
     firstName = "Hugo"
     lastName = "Casabella"
     address = "Lyon, France"
-    contactNote = "Lead web developer" #used in QR code only
+    contactNote = "Artisan développeur PHP - Golang - Devops - Architecte"
     profileImage = "img/me.jpeg"
     email = "hugo.casabella@gmail.com"
     description = "Autodidacte et passionné par le web depuis bientôt 10ans, j'aime développer, partager et trouver des solutions."
-    description2 = "Développeur expérimenté, mes différentes expériences m'ont permis d'encadrer et d'organiser des équipes afin de répondre à de nombreux challenges techniques."
-    description3 = "Spécialisé en PHP j'aime aussi travailler en Javascript ou en GO et utiliser des technos comme RabbitMQ, Docker ou Serverless."
+    description2 = "Développeur expérimenté, mes différentes expériences m'ont permis d'encadrer et d'organiser des équipes mais aussi de toucher au domaine de l'architecture logicielle."
+    description3 = "Spécialisé en PHP j'aime aussi travailler en Go ou JS et utiliser des technos comme RabbitMQ, Docker et Kubernetes."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

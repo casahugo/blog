@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS", "Domain Driven Design", "CQRS"]
+      "skills":[ "Microservices","RESTful APIs","Clean Architecture", "Hexagonal Architecture", "Domain Driven Design", "CQRS"]
   },
   {
       "grouping":"Langages & Outils",
@@ -9,19 +9,18 @@
   },
   {
       "grouping":"Administration",
-      "skills":[ "Atlassian","linux","Github", "Gitlab", "AMQP", "AWS"]
+      "skills":[ "Atlassian","linux","Github", "Gitlab", "AMQP", "AWS", "GCP"]
   },
   {
     "grouping":"Intégration continue",
-    "skills":[ "CircleCI", "phpunit", "sonar", "phpstan & phpcs", "Gitlab CI", "Github Action"]
+    "skills":[ "CircleCI", "phpunit", "sonar", "phpstan & phpcs", "Gitlab CI", "Github Action", "Cypress", "Playwright"]
   },
   {
       "grouping":"Base de données",
       "skills":[
         {"name":"Elasticsearch","icon":"database"},
         {"name":"TypeSense","icon":"database"},
-        {"name":"MySQL","icon":"database"},
-        {"name":"MongoDB","icon":"database"}
+        {"name":"MySQL","icon":"database"}
       ]
   }
 ]

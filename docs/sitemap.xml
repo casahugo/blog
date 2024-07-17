@@ -13,6 +13,9 @@
     <loc>https://casahugo.github.io/blog/tags/agile/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://casahugo.github.io/blog/tags/ci/cd-pipelines/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://casahugo.github.io/blog/tags/continuous-delivery/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -33,8 +36,6 @@
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://casahugo.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://casahugo.github.io/blog/tags/ci/cd-pipelines/</loc>
   </url><url>
     <loc>https://casahugo.github.io/blog/search/</loc>
     <priority>0.1</priority>

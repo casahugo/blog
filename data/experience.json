@@ -1,14 +1,31 @@
 [
     {
+        "role":"Développeur backend PHP",
+        "company":"[Decathlon Travel](https://www.decathlontravel.com/)",
+        "title": "Mise à l'échelle de l'application de vente de séjours sportif",
+        "content": [
+            "Développement de nouvelles fonctionnalités au sein d'une équipe au fonctionnement agile",
+            "Fusion de micro-services symfony en un monolithe symfony 6.4 et PHP 8.3",
+            "Mise en place de tests unitaires et d'intégrations pour fiabiliser et refactoriser l'application",
+            "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualitén du projet"
+        ],
+        "range":"Avril 2024 - Maintenant"
+    },
+    {
         "role":"Développeur PHP / Golang / Devops",
         "company":"[Opéra Energie](https://opera-energie.com/)",
         "title": "Découverte de la culture devops et de nouveaux outils afin d'améliorer le développement logiciel",
         "content": [
-            "Intégration et déploiement continue avec kubernetes et gitlab",
-            "API go d'analyse de fichier avec l'OCR tesseract",
-            "Récupération et traitement des offres fournisseurs par API (Engie, Primeo, Gazprom)"
+            "Intégration et déploiement continue avec Kubernetes et Gitlab",
+            "Déploiement d'instance de dev à la volée sur Kubernetets à la publication d'une nouvelle Pull request",
+            "Mise en place d'une API golang d'analyse de fichier avec l'OCR [tesseract](https://tesseract-ocr.github.io/)",
+            "Mise en place d'un micro-service en Golang de gestion et de suivi des prix de l'énérgie, avec une architecture Hexagonale",
+            "Migration du système de stockage de fichier vers un système S3 [Minio](https://min.io/) sans downtime",
+            "Traitement de masse de données compteur en JSON rédigé en Golang",
+            "Récupération et traitement des offres fournisseurs par API (Engie, Primeo, Gazprom, ...)",
+            "Mise en place de tests end-to-end avec [Playwright](https://playwright.dev/)"
         ],
-        "range":"Décembre 2021 - Maintenant"
+        "range":"Décembre 2021 - Mars 2024"
     },
     {
         "role":"Développeur backend PHP",
@@ -16,7 +33,7 @@
         "title": "Première expérience dans le métier de l'énergie afin d'automatiser les processus de gestion de données et la migration du produit sous Symfony 5",
         "content": [
             "Algorithme de récupération et de traitement des consommations électriques depuis ENEDIS",
-            "Refonte de l'architecture à l'aide du Domain Driven Design",
+            "Refonte de l'architecture à l'aide du Domain Driven Design avec la mise en place de bounded context et une architecture hexagonale",
             "Mise en place de nouvelles APIs, de tests unitaires et d'intégrations"
         ],
         "range":"Mai 2020 - Décembre 2021"

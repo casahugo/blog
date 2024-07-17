@@ -11,9 +11,9 @@ publishDir = "docs"
     contactNote = "Artisan développeur PHP - Golang - Devops - Architecte"
     profileImage = "img/me.jpeg"
     email = "hugo.casabella@gmail.com"
-    description = "Autodidacte et passionné par le web depuis bientôt 10ans, j'aime développer, partager et trouver des solutions."
-    description2 = "Développeur expérimenté, mes différentes expériences m'ont permis d'encadrer et d'organiser des équipes mais aussi de toucher au domaine de l'architecture logicielle."
-    description3 = "Spécialisé en PHP j'aime aussi travailler en Go ou JS et utiliser des technos comme RabbitMQ, Docker et Kubernetes."
+    description = "Autodidacte et passionné par le web depuis plus de 10ans, j'aime développer, partager et trouver des solutions."
+    description2 = "Développeur expérimenté, mes différentes expériences m'ont permis d'encadrer et d'organiser des équipes mais aussi d'approfondir les questions liés à l'architecture logicielle."
+    description3 = "Spécialisé en PHP j'aime aussi travailler en Go ou JS et utiliser des technos comme RabbitMQ, Docker et Kubernetes, pour mettre en place de l'intégration et du déploiement continue."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

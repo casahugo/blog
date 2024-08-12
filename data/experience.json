@@ -7,7 +7,7 @@
             "Développement de nouvelles fonctionnalités au sein d'une équipe au fonctionnement agile",
             "Fusion de micro-services symfony en un monolithe symfony 6.4 et PHP 8.3",
             "Mise en place de tests unitaires et d'intégrations pour fiabiliser et refactoriser l'application",
-            "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualitén du projet"
+            "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualité du projet"
         ],
         "range":"Avril 2024 - Maintenant"
     },
@@ -17,7 +17,7 @@
         "title": "Découverte de la culture devops et de nouveaux outils afin d'améliorer le développement logiciel",
         "content": [
             "Intégration et déploiement continue avec Kubernetes et Gitlab",
-            "Déploiement d'instance de dev à la volée sur Kubernetets à la publication d'une nouvelle Pull request",
+            "Déploiement d'instance de dev à la volée sur Kubernetes à la publication d'une nouvelle Pull request",
             "Mise en place d'une API golang d'analyse de fichier avec l'OCR [tesseract](https://tesseract-ocr.github.io/)",
             "Mise en place d'un micro-service en Golang de gestion et de suivi des prix de l'énérgie, avec une architecture Hexagonale",
             "Migration du système de stockage de fichier vers un système S3 [Minio](https://min.io/) sans downtime",

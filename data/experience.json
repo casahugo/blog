@@ -2,12 +2,13 @@
     {
         "role":"Développeur backend PHP",
         "company":"[Decathlon Travel](https://www.decathlontravel.com/)",
-        "title": "Mise à l'échelle de l'application de vente de séjours sportif",
+        "title": "Mise à l'échelle de l'application de vente de séjours sportifs",
         "content": [
             "Développement de nouvelles fonctionnalités au sein d'une équipe au fonctionnement agile",
             "Fusion de micro-services symfony en un monolithe symfony 6.4 et PHP 8.3",
             "Mise en place de tests unitaires et d'intégrations pour fiabiliser et refactoriser l'application",
-            "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualité du projet"
+            "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualité du projet",
+            "Amélioration des performances des workflows dans Github Action"
         ],
         "range":"Avril 2024 - Maintenant"
     },
@@ -33,7 +34,7 @@
         "title": "Première expérience dans le métier de l'énergie afin d'automatiser les processus de gestion de données et la migration du produit sous Symfony 5",
         "content": [
             "Algorithme de récupération et de traitement des consommations électriques depuis ENEDIS",
-            "Refonte de l'architecture à l'aide du Domain Driven Design avec la mise en place de bounded context et une architecture hexagonale",
+            "Refonte de l'architecture à l'aide du Domain Driven Design avec la mise en place de bounded context et d'une architecture hexagonale",
             "Mise en place de nouvelles APIs, de tests unitaires et d'intégrations"
         ],
         "range":"Mai 2020 - Décembre 2021"

@@ -1,26 +1,39 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "Microservices","RESTful APIs","Clean Architecture", "Hexagonal Architecture", "Domain Driven Design", "CQRS"]
+    "grouping":"Langages",
+    "skills":[ "php","go","javascript"]
   },
   {
-      "grouping":"Langages & Outils",
-      "skills":[ "git","php","nodejs","javascript","docker", "go", "kubernetes"]
+      "grouping":"Architectures",
+      "skills":[ "Monolithe modulaire", "Microservices","RESTful APIs","Clean Architecture", "Hexagonal Architecture", "CQRS"]
   },
   {
-      "grouping":"Administration",
-      "skills":[ "Atlassian","linux","Github", "Gitlab", "AMQP", "AWS", "GCP"]
+    "grouping":"Méthodes",
+    "skills":[ "Domain Driven Design", "Test Driven Development"]
+  },
+  {
+    "grouping":"Cloud",
+    "skills":[ "AWS", "GCP", "Kubernetes", "Lambda", "Docker", "Terraform", "Storage S3"]
   },
   {
     "grouping":"Intégration continue",
-    "skills":[ "CircleCI", "phpunit", "sonar", "phpstan & phpcs", "Gitlab CI", "Github Action", "Cypress", "Playwright"]
+    "skills":[ "CircleCI", "Gitlab Action", "Github Action"]
+  },
+  {
+    "grouping":"Tests",
+    "skills":["PHPUnit","Cypress", "Playwright","Behat"]
+  },
+  {
+    "grouping":"Outils",
+    "skills":["RabbitMQ","git","linux","blackfire","sonarqube","sentry","argoCD"]
   },
   {
       "grouping":"Base de données",
       "skills":[
         {"name":"Elasticsearch","icon":"database"},
         {"name":"TypeSense","icon":"database"},
-        {"name":"MySQL","icon":"database"}
+        {"name":"MySQL","icon":"database"},
+        {"name":"Algolia","icon":"database"}
       ]
   }
 ]

@@ -8,12 +8,24 @@ publishDir = "docs"
     firstName = "Hugo"
     lastName = "Casabella"
     address = "Lyon, France"
-    contactNote = "Ingénieur Logiciel PHP - Golang - Devops - Architecte"
+    contactNote = "🎯 Développeur Back-End passionné | PHP Symfony | Go | SQL | DDD | Clean Architecture | DevOps"
     profileImage = "img/me2.jpeg"
     email = "hugo.casabella@gmail.com"
-    description = "Ingénieur logiciel passionné, je me spécialise dans les problématiques d'architecture logicielle et l'optimisation des processus d'intégration et de déploiement continue."
-    description2 = "Fort d'une expérience solide dans le développement d'applications, je m'engage à concevoir des solutions robustes et évolutives, tout en favorisant la collaboration au sein des équipes."
-    description3 = "Ma curiosité me poussent à découvrir et apprendre de nouvelles technologies  afin d'apporter une valeur ajoutée significative à chaque projet."
+    description = """
+🚀 Fort d’une expertise en PHP (Symfony) et Golang, je conçois et maintiens des applications performantes et évolutives, avec un fort accent sur la qualité logicielle et l'optimisation.
+
+🔍 Mon approche repose sur des principes solides :
+
+✅ Domain-Driven Design (DDD) pour une modélisation métier efficace.
+
+✅ Clean Architecture pour des applications robustes et maintenables.
+
+✅ Modernisation & Migration de legacy : refonte progressive, amélioration continue et transition vers des architectures modernes.
+
+✅ DevOps & CI/CD : automatisation des processus d’intégration et de déploiement pour plus d’efficacité et de rapidité.
+ """
+    description2 = "Toujours à la recherche de nouveaux défis, je suis animé par l’envie de concevoir des solutions techniques innovantes et de partager mes connaissances avec les équipes."
+    description3 = "Échangeons ! Je serais ravi de discuter de vos projets et de voir comment nous pourrions collaborer."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

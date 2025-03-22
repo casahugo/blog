@@ -1,39 +1,53 @@
 [
   {
-    "grouping":"Langages",
-    "skills":[ "php","go","javascript"]
+    "grouping":"Langages de programmation",
+    "skills":[ "PHP","Golang","Javascript"]
   },
   {
-      "grouping":"Architectures",
-      "skills":[ "Monolithe modulaire", "Microservices","RESTful APIs","Clean Architecture", "Hexagonal Architecture", "CQRS"]
+    "grouping":"Framework",
+    "skills":[ "Symfony","Gin","Vuejs"]
+  },
+  {
+      "grouping":"Architecture",
+      "skills":[ "Clean Architecture", "Monolithe modulaire", "Microservices", "CQRS"]
   },
   {
     "grouping":"Méthodes",
-    "skills":[ "Domain Driven Design", "Test Driven Development"]
+    "skills":[ "Domain Driven Design", "Test Driven Development", "Agile"]
   },
   {
-    "grouping":"Cloud",
-    "skills":[ "AWS", "GCP", "Kubernetes", "Lambda", "Docker", "Terraform", "Storage S3"]
+    "grouping":"Tests et qualités",
+    "skills":["PHPUnit", "Cypress", "Playwright","Behat", "Blackfire"]
+  },
+  {
+    "grouping":"Déploiement continue",
+    "skills":[ "AWS", "GCP", "Kubernetes", "Serverless", "Docker"]
   },
   {
     "grouping":"Intégration continue",
-    "skills":[ "CircleCI", "Gitlab Action", "Github Action"]
+    "skills":[ "Gitlab Action", "Github Action", "CircleCI"]
   },
   {
-    "grouping":"Tests",
-    "skills":["PHPUnit","Cypress", "Playwright","Behat"]
+    "grouping":"Monitoring",
+    "skills":[ "Sentry", "Grafana", "Kibana"]
+  },
+  {
+    "grouping":"Base de données",
+    "skills":[
+      {"name":"MySQL","icon":"database"},
+      {"name":"Elasticsearch","icon":"database"},
+      {"name":"Redis","icon":"database"},
+      {"name":"TypeSense","icon":"database"},
+      {"name":"Algolia","icon":"database"},
+      {"name":"CockroachDB","icon":"database"}
+    ]
   },
   {
     "grouping":"Outils",
-    "skills":["RabbitMQ","git","linux","blackfire","sonarqube","sentry","argoCD"]
+    "skills":["Redis" ,"RabbitMQ", "Tesseract OCR", "Git", "Jira", "LLM"]
   },
   {
-      "grouping":"Base de données",
-      "skills":[
-        {"name":"Elasticsearch","icon":"database"},
-        {"name":"TypeSense","icon":"database"},
-        {"name":"MySQL","icon":"database"},
-        {"name":"Algolia","icon":"database"}
-      ]
+    "grouping":"Systèmes",
+    "skills":["Linux","Windows","MacOS"]
   }
 ]

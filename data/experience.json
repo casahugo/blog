@@ -1,7 +1,19 @@
 [
     {
+        "role":"Analyste, Développeur backend, Devops",
+        "company":"[Dynergy](https://dynergy.pro)",
+        "title": "Audit et développement d'application dans le domaine de l'énergie",
+        "content": [
+            "Audit de l'infrastructure PHP de diveres applications",
+            "Mise en place d'analyse de facture via une API Golang avec l'utilisation de l'OCR Tesseract",
+            "Mise en place d'intégration et déploiement continue dans Github Action",
+            "Création de dashboard grafana"
+        ],
+        "range":"Décembre 2024 - Maintenant"
+    },
+    {
         "role":"Développeur backend PHP",
-        "company":"[Decathlon Travel](https://www.decathlontravel.com/)",
+        "company":"[Decathlon Travel](https://www.decathlontravel.com)",
         "title": "Mise à l'échelle de l'application de vente de séjours sportifs",
         "content": [
             "Développement de nouvelles fonctionnalités au sein d'une équipe au fonctionnement agile",
@@ -10,11 +22,11 @@
             "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualité du projet",
             "Amélioration des performances des workflows dans Github Action"
         ],
-        "range":"Avril 2024 - Maintenant"
+        "range":"Avril 2024 - Novembre 2024"
     },
     {
         "role":"Développeur PHP / Golang / Devops",
-        "company":"[Opéra Energie](https://opera-energie.com/)",
+        "company":"[Opéra Energie](https://opera-energie.com)",
         "title": "Découverte de la culture devops et de nouveaux outils afin d'améliorer le développement logiciel",
         "content": [
             "Intégration et déploiement continue avec Kubernetes et Gitlab",
@@ -30,8 +42,8 @@
     },
     {
         "role":"Développeur backend PHP",
-        "company":"[Opéra Energie](https://opera-energie.com/)",
-        "title": "Première expérience dans le métier de l'énergie afin d'automatiser les processus de gestion de données et la migration du produit sous Symfony 5",
+        "company":"[Opéra Energie](https://opera-energie.com)",
+        "title": "Première expérience dans le métier de l'énergie afin d'automatiser les processus de gestion de données et la migration du produit sous Symfony",
         "content": [
             "Algorithme de récupération et de traitement des consommations électriques depuis ENEDIS",
             "Refonte de l'architecture à l'aide du Domain Driven Design avec la mise en place de bounded context et d'une architecture hexagonale",
@@ -41,7 +53,7 @@
     },
     {
         "role":"Lead Développeur PHP",
-        "company":"[Wizaplace](https://www.wizaplace.com/fr/)",
+        "company":"[Wizaplace](https://www.wizaplace.com/fr)",
         "title": "Lead développeur au sein d'une squad de 4 développeurs afin de migrer le système de marketplace vers une architecture en micro services. En charge des choix techniques et du bon déroulement des développements avec une attention particulière apportée sur la sécurité et la qualité. ",
         "content": [
             "Animation d'une squad de développeur: standup, pair-programming, revue de code",
@@ -54,7 +66,7 @@
     },
     {
         "role":"Développeur backend PHP",
-        "company":"[Wizaplace](https://www.wizaplace.com/fr/)",
+        "company":"[Wizaplace](https://www.wizaplace.com/fr)",
         "title": "Développeur backend en charge d'implémenter de nouvelles fonctionnalités sur un produit SAAS de marketplace au sein d'une équipe fonctionnant en agilité. Prise en charge de la rédaction de spécifications techniques en relation avec un Product Owner.",
         "content": [
             "Développement en PHP 7 avec le framework [Symfony](https://symfony.com/) 3 et 4",

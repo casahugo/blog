@@ -1,7 +1,7 @@
 [
   {
     "grouping":"Langages de programmation",
-    "skills":[ "PHP","Golang","Javascript"]
+    "skills":[ "PHP","Golang","Javascript", "Python"]
   },
   {
     "grouping":"Framework",
@@ -17,7 +17,7 @@
   },
   {
     "grouping":"Tests et qualités",
-    "skills":["PHPUnit", "Cypress", "Playwright","Behat", "Blackfire"]
+    "skills":["PHPUnit", "Cypress", "Testcontainers", "Playwright","Behat", "Blackfire"]
   },
   {
     "grouping":"Déploiement continue",

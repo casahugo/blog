@@ -1,15 +1,29 @@
 [
     {
+        "role":"Développeur backend",
+        "company":"[Agregio Solutions](https://www.agregio-solutions.com/)",
+        "title": "Contribution à des produits stratégiques au cœur de la transition énergétique et de la digitalisation des infrastructures industrielles",
+        "content": [
+            "Développement de fonctionnalités backend en Golang",
+            "Développement d'une librairie Golang de validation de configuration et de génération de graphiques",
+            "Mise en oeuvre de tests automatisés avec testcontainers et contrôle de la dette technique pour garantir la fiabilité des solutions",
+            "Développement d'une librairie Python pour la rédaction de tests automatisés en local, CI et sur serveur distants"
+        ],
+        "skills": ["Golang", "Python", "Testcontainers", "Gitlab Action", "Docker"],
+        "range":"Juin 2025 - Décembre 2025"
+    },
+    {
         "role":"Analyste, Développeur backend, Devops",
         "company":"[Dynergy](https://dynergy.pro)",
         "title": "Audit et développement d'application dans le domaine de l'énergie",
         "content": [
-            "Audit de l'infrastructure PHP de diveres applications",
+            "Audit de l'infrastructure PHP de diverses applications",
             "Mise en place d'analyse de facture via une API Golang avec l'utilisation de l'OCR Tesseract",
             "Mise en place d'intégration et déploiement continue dans Github Action",
             "Création de dashboard grafana"
         ],
-        "range":"Décembre 2024 - Maintenant"
+        "skills": ["Golang", "PHP", "Grafana", "Tesseract OCR", "Github Action"],
+        "range":"Décembre 2024 - Juin 2025"
     },
     {
         "role":"Développeur backend PHP",
@@ -22,6 +36,7 @@
             "Mise en place d'outils de linter et d'analyse statique afin d'améliorer la qualité du projet",
             "Amélioration des performances des workflows dans Github Action"
         ],
+        "skills": ["PHP", "Symfony", "GCP", "Github Action"],
         "range":"Avril 2024 - Novembre 2024"
     },
     {
@@ -38,6 +53,7 @@
             "Récupération et traitement des offres fournisseurs par API (Engie, Primeo, Gazprom, ...)",
             "Mise en place de tests end-to-end avec [Playwright](https://playwright.dev/)"
         ],
+        "skills": ["Golang", "PHP", "Kubernetes", "Tesseract OCR", "Playwright", "Gitlab Action", "Docker"],
         "range":"Décembre 2021 - Mars 2024"
     },
     {
@@ -49,6 +65,7 @@
             "Refonte de l'architecture à l'aide du Domain Driven Design avec la mise en place de bounded context et d'une architecture hexagonale",
             "Mise en place de nouvelles APIs, de tests unitaires et d'intégrations"
         ],
+        "skills": ["PHP", "Symfony", "RabbitMQ"],
         "range":"Mai 2020 - Décembre 2021"
     },
     {
@@ -60,8 +77,10 @@
             "Rédaction de spécifications techniques en relation avec une équipe produit",
             "Découpe des tâches et suivi du développement accompagné par un chef de projet",
             "Attention particulière apporté sur la sécurité avec Sonar, la qualité avec phpstan et phpcs ainsi que les performances avec Apache Benchmark et Blackfire",
-            "Mise en place d'ateliers techniques autour du design pattern en PHP, d'outils comme Mercure et Xdebug"
+            "Mise en place d'ateliers techniques autour du design pattern en PHP, d'outils comme Mercure et Xdebug",
+            "Développement d'une API d'authentification basé sur JWT en Golang"
         ],
+        "skills": ["PHP", "Symfony", "Golang", "Docker"],
         "range":"Octobre 2019 - Avril 2020"
     },
     {
@@ -80,6 +99,7 @@
             "Import de données de manière asynchrone avec [RabbitMQ](https://www.rabbitmq.com/)",
             "Réalisation d'un outil interne pour le déploiement à la volée des environnements en sandbox avec [platform.sh](https://platform.sh/)."
         ],
+        "skills": ["PHP", "Symfony", "Docker", "Algolia", "RabbitMQ", "CircleCI", "Stripe", "LemonWay", "HiPay", "SMoney", "MangoPay"],
         "range":"Avril 2018 - Septembre 2019"
     },
     {
@@ -93,11 +113,7 @@
             "En charge du déploiement et de l'administration système",
             "Formation et accompagnement d'étudiants en alternance"
         ],
+        "skills": ["PHP", "Javascript"],
         "range":"Octobre 2012 - Octobre 2017"
-    },
-    {
-        "role":"Developer full stack",
-        "company":"Freelance",
-        "range":"Septembre 2011"
     }
 ]

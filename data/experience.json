@@ -1,5 +1,18 @@
 [
     {
+        "role":"Analyse et Développeur backend",
+        "company":"[Bedrock Streaming](https://bedrockstreaming.com/)",
+        "title": "Migration du principal micro-service en PHP vers Golang",
+        "content": [
+            "Contribution à l’analyse, la conception et l’optimisation d’architectures microservices",
+            "Développement des fondations d'un nouveau micro service en Golang",
+            "Mise en place du monitoring pour l'analyse des performances",
+            "~10 % de réduction des coûts d’infrastructure en un temps très court, grâce aux premières optimisations mises en production"
+        ],
+        "skills": ["Golang", "Kubernetes", "Terraform", "Github Action", "PHP"],
+        "range":"Janvier 2026 - Avril 2026"
+    },
+    {
         "role":"Développeur backend",
         "company":"[Agregio Solutions](https://www.agregio-solutions.com/)",
         "title": "Contribution à des produits stratégiques au cœur de la transition énergétique et de la digitalisation des infrastructures industrielles",

@@ -53,10 +53,11 @@
         "range":"Avril 2024 - Novembre 2024"
     },
     {
-        "role":"Développeur PHP / Golang / Devops",
+        "role":"Développeur Full Stack PHP / ReactJS / Golang / DevOps",
         "company":"[Opéra Energie](https://opera-energie.com)",
-        "title": "Découverte de la culture devops et de nouveaux outils afin d'améliorer le développement logiciel",
+        "title": "Développement et évolution de solutions métiers, industrialisation des déploiements et conception de microservices",
         "content": [
+            "Maintenance, évolution et optimisation d'une application de gestion client développée en ReactJS utilisée par les équipes métiers",
             "Intégration et déploiement continue avec Kubernetes et Gitlab",
             "Déploiement d'instance de dev à la volée sur Kubernetes à la publication d'une nouvelle Pull request",
             "Mise en place d'une API golang d'analyse de fichier avec l'OCR [tesseract](https://tesseract-ocr.github.io/)",
@@ -66,7 +67,7 @@
             "Récupération et traitement des offres fournisseurs par API (Engie, Primeo, Gazprom, ...)",
             "Mise en place de tests end-to-end avec [Playwright](https://playwright.dev/)"
         ],
-        "skills": ["Golang", "PHP", "Kubernetes", "Tesseract OCR", "Playwright", "Gitlab Action", "Docker"],
+        "skills": ["Golang", "PHP", "ReactJs","Kubernetes", "Tesseract OCR", "Playwright", "Gitlab Action", "Docker"],
         "range":"Décembre 2021 - Mars 2024"
     },
     {
